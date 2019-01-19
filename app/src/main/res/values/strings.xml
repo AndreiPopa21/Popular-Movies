@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PMP</string>
+    <string name="unable_to_load_text">Unable to load movie data</string>
+    <string name="title_detail_tag">Title:</string>
+    <string name="vote_average_detail_tag">Vote Average:</string>
+    <string name="release_date_detail_tag">Release date:</string>
+    <string name="menu_top_rated_title">Top Rated</string>
+    <string name="menu_popular_title">Popular</string>
+</resources>
